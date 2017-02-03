@@ -1,0 +1,9 @@
+c:\users\student.b17\documents\visual studio 2012\Projects\All_In_One_Calculator\All_In_One_Calculator\bin\Debug\All_In_One_Calculator.exe.config
+c:\users\student.b17\documents\visual studio 2012\Projects\All_In_One_Calculator\All_In_One_Calculator\obj\Debug\All_In_One_Calculator.csprojResolveAssemblyReference.cache
+c:\users\student.b17\documents\visual studio 2012\Projects\All_In_One_Calculator\All_In_One_Calculator\obj\Debug\All_In_One_Calculator.Form1.resources
+c:\users\student.b17\documents\visual studio 2012\Projects\All_In_One_Calculator\All_In_One_Calculator\obj\Debug\All_In_One_Calculator.Properties.Resources.resources
+c:\users\student.b17\documents\visual studio 2012\Projects\All_In_One_Calculator\All_In_One_Calculator\obj\Debug\All_In_One_Calculator.csproj.GenerateResource.Cache
+c:\users\student.b17\documents\visual studio 2012\Projects\All_In_One_Calculator\All_In_One_Calculator\bin\Debug\All_In_One_Calculator.exe
+c:\users\student.b17\documents\visual studio 2012\Projects\All_In_One_Calculator\All_In_One_Calculator\bin\Debug\All_In_One_Calculator.pdb
+c:\users\student.b17\documents\visual studio 2012\Projects\All_In_One_Calculator\All_In_One_Calculator\obj\Debug\All_In_One_Calculator.exe
+c:\users\student.b17\documents\visual studio 2012\Projects\All_In_One_Calculator\All_In_One_Calculator\obj\Debug\All_In_One_Calculator.pdb
